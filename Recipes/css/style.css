@@ -1,0 +1,30 @@
+*{
+    font-family: 'Ysabeau SC', sans-serif;
+    background-color: #FFFAD7;
+    
+}
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+    color:#FF90BB;
+}
+h2{
+    color:#FF2171;
+}
+
+
+a{
+    color:#FF2171;
+    
+}
+.chicken{
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+
+}
+.cheese{
+    width: 500px;
+    height: 300px;
+}
