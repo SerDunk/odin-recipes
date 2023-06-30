@@ -1,0 +1,18 @@
+*{
+    font-family: 'Ysabeau SC', sans-serif;
+    background-color: #FFFAD7;
+    color:#FF90BB;
+    text-align: center;
+}
+ul,ol{
+list-style: none;
+}
+h1,h2{
+    color:#FF2171;
+}
+li{
+    padding: 5px;
+}
+p{
+    margin-top: 50px;
+}

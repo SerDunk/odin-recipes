@@ -1,15 +1,14 @@
 *{
     font-family: 'Ysabeau SC', sans-serif;
     background-color: #FFFAD7;
-    
 }
-ul{
-    list-style: none;
-}
+
 img{
     height: 500px;
     width: 500px;
-    
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #FF90BB;  
 }
 
 h1{
@@ -18,6 +17,8 @@ h1{
     color:#FF90BB;
     font-size: 100px;
     margin: 0px;
+    text-decoration: underline;
+
 }
 h2{
     color:#FF2171;
@@ -28,26 +29,23 @@ h2{
 a{
     color:#FF2171;
     text-decoration: none;
-    
-    
 }
 .chicken{
     
     
     display: inline-block;
-    margin-left: 600px;
+    margin-left: 200px;
     margin-bottom: 0px;
-    margin-top: 100px;
+    margin-top: 10px;
     
-    
-
 }
 .cheese{
     
     display: inline-block;
     margin-bottom: 0px;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 40px;
+    
 }
 a.button{
     text-align: center;
@@ -60,8 +58,21 @@ a.button{
 
     text-decoration: none;
     color: initial;
+    font-weight: bold;
+    border-style:solid;
+    border-color: #FF90BB;
+    border-radius: 25px;
+    border-width: 10px;
     
 }
-/*div{
-    background-color: red;
+.odin{
+    height: 200px;
+    width: 200px;
+    border: none;
+    margin-left:150px;
+    padding-left: 70px;
+    margin-bottom: 200px;
+    
+    
 }
+
