@@ -14,7 +14,7 @@ h1{
     text-align: center;
     color:#FF90BB;
     font-size: 100px;
-    margin: 0px;
+    margin: 10px;
     text-decoration: underline;
 }
 h2{
@@ -50,5 +50,7 @@ a.button{
     display: flex;
     justify-content:space-around;
     align-items: center;
+    height: 100%;
+    
 }
 
