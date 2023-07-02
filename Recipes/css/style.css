@@ -2,7 +2,6 @@
     font-family: 'Ysabeau SC', sans-serif;
     background-color: #FFFAD7;
 }
-
 img{
     height: 500px;
     width: 500px;
@@ -10,7 +9,6 @@ img{
     border-radius: 20px;
     border-color: #FF90BB;  
 }
-
 h1{
     font-weight: bolder;
     text-align: center;
@@ -18,34 +16,14 @@ h1{
     font-size: 100px;
     margin: 0px;
     text-decoration: underline;
-
 }
 h2{
     color:#FF2171;
     text-align: center;
 }
-
-
 a{
     color:#FF2171;
     text-decoration: none;
-}
-.chicken{
-    
-    
-    display: inline-block;
-    margin-left: 200px;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    
-}
-.cheese{
-    
-    display: inline-block;
-    margin-bottom: 0px;
-    margin-left: 100px;
-    margin-top: 40px;
-    
 }
 a.button{
     text-align: center;
@@ -55,24 +33,22 @@ a.button{
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
     text-decoration: none;
     color: initial;
     font-weight: bold;
     border-style:solid;
     border-color: #FF90BB;
     border-radius: 25px;
-    border-width: 10px;
-    
+    border-width: 10px; 
 }
 .odin{
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     border: none;
-    margin-left:150px;
-    padding-left: 70px;
-    margin-bottom: 200px;
-    
-    
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
 }
 
